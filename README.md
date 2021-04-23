@@ -9,6 +9,6 @@
 #### 1. tour_route_line is used to draw the travel lines of both objectives in different subproblems
 #### 2. compared_with_classical_methods is used to compare with evolutionary algorithms (MOEA/D & NSGAII)
 (run compare.m)
-#### 3. add_constrains is used to draw the travel lines after adding constains
+#### 3. add_constrains is used to draw the travel lines after adding constrains
 #### 0. MATLAB_results stores the graph results of 1.2.3.
  
