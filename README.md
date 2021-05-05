@@ -2,7 +2,7 @@
 ## This work is in partial fulfilment of the requirements for the Degree of Bachelor of Engineering National University of Singapore (Suzhou)
 ## This code is the model with four-dimension input (Euclidean-type) based on reproduction of https://github.com/kevin031060/RL_TSP_4static
 ### "ubuntu_18.04_pytorch-gpu" is used to configure the environment in Ubuntu 18.04 in a sophisticated way. 
-### "win10 or linux_pytorch-gpu_fast_version" is employed for environmental configuration in Win10 or linux in a convenient and fast method.
+### "win10 or linux_pytorch-gpu_fast_version" is employed for environmental configuration in Win10 or Linux in a convenient and fast method.
 ### FYP_DRL is used for training and testing bi-objective TSP by DRL
 #### 1. To test the model, use the load_all_rewards.py
 #### 2. To train the model, run train_motsp_transfer.py
