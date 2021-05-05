@@ -1,6 +1,8 @@
 # FYP_NUSRI_RL_BOTSP
 ## This work is in partial fulfilment of the requirements for the Degree of Bachelor of Engineering National University of Singapore (Suzhou)
 ## This code is the model with four-dimension input (Euclidean-type) based on reproduction of https://github.com/kevin031060/RL_TSP_4static
+### "ubuntu_18.04_pytorch-gpu" is used to configurate environment in Ubuntu 18.04 by a sophisticated way. 
+### "win10 or linux_pytorch-gpu_fast_version" is used to configurate environment in Win10 or linux by a fast method.
 ### FYP_DRL is used for training and testing bi-objective TSP by DRL
 #### 1. To test the model, use the load_all_rewards.py
 #### 2. To train the model, run train_motsp_transfer.py
@@ -11,4 +13,4 @@
 (run compare.m)
 #### 3. add_constrains is used to draw the travel lines after adding constrains
 #### 0. MATLAB_results stores the graph results of 1.2.3.
- 
+
